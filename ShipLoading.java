@@ -4,7 +4,7 @@ import java.io.*;
 
 
 public
-    class S22083 {
+    class ShipLoading {
 
     public static void main(String[] args) {
 
